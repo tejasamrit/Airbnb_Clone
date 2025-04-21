@@ -36,7 +36,7 @@ A full-stack clone of Airbnb, built using modern web technologies. This project 
 ## 📸 Screenshots
 
 ### Home Page
-![Homepage Screenshot](./screenshots/home.png)
+![Homepage Screenshot](./screenshots/HomePage.png)
 
 ### Listing Page
 ![Listing Screenshot](./screenshots/listing.png)
